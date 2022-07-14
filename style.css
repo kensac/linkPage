@@ -10,7 +10,7 @@ div {
     justify-content: center;
 }
 .header {
-    font-size: 15vmin;
+    font-size: 9vmin;
     color: #1E2335;
 }
 .links-section {
@@ -18,7 +18,7 @@ div {
 }
  .links {
     color: #3A4766;
-    font-size: 11vmin;
+    font-size: 7vmin;
     margin: 10px;
     height: 10vmin;
     width: 75vw;
