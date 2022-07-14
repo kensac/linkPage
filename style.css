@@ -1,0 +1,38 @@
+* {
+    background-color: #E6DFC5;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header {
+    font-size: 9vmin;
+    color: #1E2335;
+}
+.links-section {
+    flex-direction: column;
+}
+ .links {
+    color: #3A4766;
+    font-size: 7vmin;
+    margin: 10px;
+    height: 10vmin;
+    width: 50vw;
+    max-width: 500px;
+    border: 2px solid #3A4766;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+ }
+ img {
+    height: 1em;
+    width: auto;
+    display: block;
+ }
+
+
