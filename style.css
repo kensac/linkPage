@@ -5,18 +5,28 @@
 }
 
 div {
-    display: flex;
     align-items: center;
     justify-content: center;
 }
 .header {
+    margin-top: 1vh;
     display: block;
-    font-size: 14vmin;
+    font-size: 5vw;
     color: #1E2335;
 }
 .links-section {
-    flex-direction: column;
-    margin-top: -5vmax;
+    display: block;
+    justify-content: center;
+}
+.links-section img {
+    display: inline-block;
+    width: 5vw;
+    height: auto;
+}
+.btn {
+    font-size: 3.5vw;
+    width: 90vw;
+    margin: 10px;
 }
  .links {
     color: #3A4766;
